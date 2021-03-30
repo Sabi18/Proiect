@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185493681388",
+    "project_id": "sabigps-4b367",
+    "storage_bucket": "sabigps-4b367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185493681388:android:07a19e3888f00a5deb21c9",
+        "android_client_info": {
+          "package_name": "com.example.sabigps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185493681388-b700t2ftlck72lmft23dn5up1docv486.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnyn7hR2OIfHC2O8lxN8TwvaazerNPLVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185493681388-b700t2ftlck72lmft23dn5up1docv486.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
